@@ -7,6 +7,7 @@ import Contact from './Components/Contact';
 import Private from './Components/Private';
 import Post from './Components/Post';
 
+
 class App extends Component {
   render() {
     return (
